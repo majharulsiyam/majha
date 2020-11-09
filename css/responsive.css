@@ -1,0 +1,371 @@
+@media(max-width: 1400px){
+	}
+
+@media(max-width: 1200px){
+.subordinate_header{width: 860px;}
+.image img{padding: 50px 35px;}
+.content a{ padding: 10px 30px;}
+.content p{ font-size: 15px;}
+.content h1{ font-size: 35px;}
+.s1{ font-size: 14px;}
+.container{ width: 860px;}
+header{ margin-bottom: 40px;}
+.features{ margin-bottom: 70px; margin-top: 30px;}
+.features div{
+   width: 20%;
+  	padding: 6px 6px;
+    margin: 5px 20px;}
+    .facilities{ width: 860px; margin-bottom: 80px;}
+    .photo{
+    width: 29%;
+    padding: 5px 20px;}
+    .photo h4{
+   font-size: 21px;
+	}
+.photo span{
+   font-size: 16px;
+	}
+.photo a{
+    padding: 5px 15px;
+    margin-bottom: 20px;
+	}
+.testimonial {
+    width: 860px;}
+.head {
+    width: 860px;
+    font-size: 13px;}
+
+    footer .maha {
+	font-size: 15px;
+	}
+	footer .maha {
+	font-size: 15px;
+	}
+}
+		
+@media(max-width: 992px){
+
+.subordinate_header{width: 700px}
+.facilities{ width: 700px;}
+.testimonial {
+    width: 700px;}
+.head {
+    width: 700px;}
+.features{ 
+	width: 700px;
+	}
+.container{ width: 700px;}
+	
+.head {
+    width: 700px;}
+.s1 {
+
+    font-size: 11px;
+	}
+nav ul li {
+    padding: 5px 9px;
+	} 
+nav ul li a:hover {
+
+    padding: 5px 18px;
+
+	}
+.content h1 {
+    color: #000000;
+    font-size: 28px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+	}
+.content a {
+	padding: 7px 15px;
+	}
+.features div {
+	width: 19%;
+	}
+.all_F h2 {
+  font-size: 35px;
+	}
+.photo span {
+    font-size: 13px;
+	}
+.photo a {
+	padding: 3px 10px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+	}
+.course_date p {
+    font-size: 7px;
+
+}	
+.testimonial h2 {
+
+    font-size: 25px;
+	}
+.text p {
+    line-height: 1.7;
+    font-size: 10px;
+
+	}
+.message {
+
+    margin-top: 30px;
+    margin-bottom: 80px;
+	}
+.col_1_4 {
+
+    margin-top: 30px;
+    margin-bottom: 80px;
+	}
+footer .maha {
+
+    font-size: 15px;
+	}
+.head {
+	font-size: 10px;
+	}
+}
+
+
+@media(max-width: 768px){
+.subordinate_header{width: 570px}
+.facilities{ width: 570px;}
+.testimonial {
+    width: 570px;}
+.head {
+    width: 570px;}
+.features{ 
+	width: 570px;
+	}
+.container{ width: 570px;}
+	
+.head {
+    width: 570px;}
+
+nav ul li {
+    padding: 5px 5px;
+}
+
+element.style {
+}
+@media (max-width: 992px)
+nav ul li a:hover {
+    /* padding: 5px 18px; */
+}
+nav ul li a:hover {
+	padding: 5px 10px;
+}
+.content h1 {
+
+    font-size: 23px;
+    margin-top: 6px;
+    margin-bottom: 9px;
+}
+.content p {
+    font-size: 9px;
+}
+.content a {
+    padding: 4px 8px;
+}
+.image img {
+    padding: 65px 45px;
+}
+.features div {
+    width: 17%;
+    padding: 15px 5px;
+}
+.features div img {
+
+    width: 60px;
+}
+.features div h3 {
+    font-size: 14px;
+}
+.features div p {
+    font-size: 11px;
+}
+.all_F h2 {
+    font-size: 25px;
+}
+.photo {
+    width: 28%;
+    padding: 8px 7px;
+}
+.photo h4 {
+    font-size: 14px;
+}
+.photo span {
+    font-size: 9px;
+}
+.photo a {
+    padding: 3px 11px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    font-size: 15px;
+	}
+.testimonial h2 {
+    font-size: 20px;
+	}
+.img img {
+    width: 100px;}
+    .text p {
+    line-height: 1.5;
+    font-size: 8px;
+	}
+footer .maha {
+    font-size: 12px;
+	}
+}
+
+@media(max-width: 576px){
+
+.subordinate_header{width: 100%}
+.facilities{ width: 100%}
+.testimonial {
+    width: 100%}
+.head {
+    width: 100%}
+.features{ 
+	width: 100%
+	}
+.container{ width: 100%}
+	
+.head {
+    width: 100%}
+    .anchor {
+    font-size: 13px;
+	}
+.content h1 {
+    font-size: 21px;
+    margin-top: 4px;
+    margin-bottom: 6px;
+}
+.content p {
+    font-size: 7px;
+    margin-bottom: 25px;
+}
+.content a {
+    padding: 5px 9px;
+}
+.image img {
+    padding: 75px 55px;
+}
+.features div {
+    width: 17%;
+    padding: 10px 3px;
+}
+.all_F h2 {
+    font-size: 20px;
+}
+.photo h4 {
+    font-size: 12px;
+}
+.photo span {
+    font-size: 10px;
+}
+.photo a {
+    padding: 2px 8px;
+    margin-top: 3px;
+    margin-bottom: 7px;
+    font-size: 11px;
+}
+.course_date p {
+    font-size: 6.5px;
+	}
+.seats p {
+    font-size: 9px;}
+    .seats i {
+    margin-left: 7px;
+	}
+.testimonial h2 {
+    font-size: 18px;
+	}
+.img img {
+    width: 80px;
+	}
+.head {
+font-size: 9px;
+	}
+footer .maha {
+    font-size: 10px;
+	}
+}
+
+
+
+@media(max-width: 400px){
+
+.subordinate_header{width: 100%}
+.facilities{ width: 100%}
+.testimonial {
+    width: 100%}
+.head {
+    width: 100%}
+.features{ 
+	width: 100%
+	}
+.container{ width: 100%
+			text-align: center;}
+	
+.head {
+    width: 100%}
+    .anchor {
+    font-size: 9px;
+}
+.content h1 {
+    font-size: 19px;
+    margin-top: 2px;
+    margin-bottom: 4px;
+}
+.s1 {
+    font-size: 10px;
+}
+.content p {
+
+    margin-bottom: 10px;
+}
+header div {
+
+    margin-top: 0px;
+}
+.content {
+    width: 100%;
+    display: block;
+}
+.image {
+    width: 100%;}
+.features div {
+    width: 15%;
+    padding: 4px 0px;
+}
+
+.image img {
+    padding: 100px 70px;
+}
+
+.features div {
+    width: 100%;}s
+.photo {
+    width: 100%;
+    text-align: center;}
+.photo img {
+  width: 250px;
+	}
+.img {
+    width: 100%;
+	}
+.text p {
+
+    width: 100%;
+	}
+.main {
+
+    text-align: center;
+	}
+.head {
+    font-size: 7px;
+	}
+footer .maha {
+    font-size: 8px;
+	}
+
+}
